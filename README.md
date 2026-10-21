@@ -1,2 +1,2 @@
 # Aylim-Cuesta
-Portafolio profesional de Ciencias de Datos. 
+Portafolio profesional | Ciencia de Datos, Python, SQL y Análisis de Datos.
